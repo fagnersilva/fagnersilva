@@ -10,6 +10,9 @@
   <img align="center" height="60" width="70" src="https://img.icons8.com/color/344/docker.png">
   <img align="center" height="60" width="70" src="https://img.icons8.com/color/2x/terraform.png">
   <img align="center" height="60" width="70" src="https://img.icons8.com/color/344/ansible.png">
+  <img align="center" height="60" width="70" src="https://img.icons8.com/fluency/344/python.png">
+  <img align="center" height="60" width="70" src="https://img.icons8.com/color/344/golang.png">
+  <img align="center" height="60" width="70" src="https://img.icons8.com/fluency/344/node-js.png">
   
 </div>
 </br>
