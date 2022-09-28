@@ -29,5 +29,5 @@
 </div>
 </br>
 <div align="center">
-  https://starchart.cc/{fagnersilva}/{repo}.svg
+  https://starchart.cc/{fagnersilva}/{fagnersilva}.svg
 </div>
